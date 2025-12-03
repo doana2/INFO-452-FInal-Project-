@@ -154,7 +154,7 @@ customer-review-analyzer/
 
 ## Deployment to Hugging Face Spaces
 
-### Option 1: Manual Upload (Recommended for Beginners)
+### Option 1: Manual Upload
 
 1. Create account at [huggingface.co](https://huggingface.co)
 2. Create new Space:
