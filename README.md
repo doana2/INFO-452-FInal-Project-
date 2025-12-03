@@ -240,15 +240,6 @@ git push
 
 ---
 
-## Contact & Support
-
-**Student:** [Your Name]  
-**Email:** [Your Email]  
-**GitHub:** [Your GitHub URL]  
-**Hugging Face:** [Your HF Profile]
-
----
-
 ## License
 
 This project is created for INFO 452 coursework.
