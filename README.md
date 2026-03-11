@@ -14,6 +14,16 @@ An AI-powered application that combines **sentiment analysis** and **retrieval-a
 - **Sentiment Analysis:** Automatically classify customer reviews as positive or negative
 - **Product Q&A:** Answer questions using company documentation with RAG
 - **User-Friendly GUI:** Interactive Gradio interface with multiple tabs
+---
+
+## 📸 Demo
+
+**Sentiment Analysis** — Classifies reviews with a confidence breakdown chart
+![Sentiment Analysis](assets/sentiment_demo.png)
+
+**Product Q&A** — Retrieves answers from documentation with source citations
+![Product Q&A](assets/qa_demo.png)
+
 
 ---
 
