@@ -19,10 +19,10 @@ An AI-powered application that combines **sentiment analysis** and **retrieval-a
 ## 📸 Demo
 
 **Sentiment Analysis** — Classifies reviews with a confidence breakdown chart
-![Sentiment Analysis](assets/sentiment_demo.png)
+![Sentiment Analysis](sentiment_demo.png)
 
 **Product Q&A** — Retrieves answers from documentation with source citations
-![Product Q&A](assets/qa_demo.png)
+![Product Q&A](qa_demo.png)
 
 
 ---
